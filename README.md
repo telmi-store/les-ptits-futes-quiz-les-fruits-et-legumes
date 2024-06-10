@@ -1,3 +1,5 @@
+![Total Download](https://img.shields.io/github/downloads/histoires-pour-tous/les-ptits-futes-quiz-les-fruits-et-legumes/total.svg)
+
 # [5+] Les P'tits Futés - Le quiz des fruits et légumes (FR)
 
 Le quiz des P'tits Futés pour découvrir tout en s'amusant les fruits et légumes en 96 questions.
